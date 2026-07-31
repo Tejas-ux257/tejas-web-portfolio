@@ -52,10 +52,7 @@ const profile = {
       github: "https://github.com/Tejas-ux257/HR_ERP_SYSTEM.git",
       demo: " https://hr-erp-system-lime.vercel.app/",
     },
-  ],
-   
 
-  projects: [
   {
     title: "Smart Expense Tracker API",
 
@@ -77,11 +74,6 @@ const profile = {
       "https://github.com/Tejas-ux257/Smart-Expense-Tracker-API.git",
   }
 ],
-
-
-
-
-
 
 };
 
